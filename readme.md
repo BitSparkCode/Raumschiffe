@@ -14,7 +14,7 @@ Dieses Projekt erstellt zwei Raumschiffe, die jeweils eine Methode haben, um ihr
 
 1. Klonen Sie das Repository:
     ```bash
-    git clone https://github.com/BitSparkCode/raumschiffe.git
+    git clone https://github.com/BitSparkCode/Raumschiffe.git
     ```
 2. Navigieren Sie in das Verzeichnis:
     ```bash
